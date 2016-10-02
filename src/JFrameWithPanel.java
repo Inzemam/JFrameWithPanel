@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 import java.awt.Rectangle;
 
 
-
+// this line is Git test on linux
 public class JFrameWithPanel {  
 
     public static void main(String[] args) {  
