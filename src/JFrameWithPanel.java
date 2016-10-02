@@ -18,7 +18,11 @@ import java.awt.Rectangle;
 public class JFrameWithPanel {  
 
     public static void main(String[] args) {  
-         
+        String a ="abc";
+	String b ="bcd";
+	String c = a+b;
+	System.out.println)(c);
+
         JFrame frame = new JFrame("Frame With Panel");
       //  public Rectangle[][] Block = new Rectangle[10][10];
         
